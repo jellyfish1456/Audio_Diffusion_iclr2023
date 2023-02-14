@@ -1,0 +1,10 @@
+/.vscode
+/_Trash
+/__pycache__
+/**/__pycache__
+*.wav
+/**/.sh
+audio_models/
+*.pth
+datasets/
+_Spec_Samples/
